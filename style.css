@@ -7,7 +7,7 @@ body {
   background-color: hsl(250, 17%, 20%);
 }
 .ing1 {
-  width: 35px;
+  width: 65px;
   border-style: solid;
   border-width: 0.8px;
   border-radius: 10px;
@@ -16,7 +16,7 @@ body {
   transition: 0.7s;
 }
 .ing1:hover {
-  width: 45px;
+  width: 75px;
   border-color: rgb(30, 255, 0);
   box-shadow: 0px 0px 8px rgb(115, 255, 73);
 }
